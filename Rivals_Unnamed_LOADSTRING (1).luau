@@ -6,7 +6,7 @@
   - Silent aim / FOV mejorados
   - ESP optimizado
 
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/betsabetmatus-bit/RivalsMP/main/Rivals_Unnamed_LOADSTRING.luau"))()
+  loadstring(game:HttpGet("https://github.com/Plxga/Unnamed-enhacemets/blob/main/Rivals_Unnamed_LOADSTRING%20(1).luau"))()
 
   Teclas: RightControl / Insert = abrir-cerrar menú
 ]]
